@@ -8,13 +8,13 @@ new Chart(chart, {
 
         datasets: [
             {
-                label: 'GOLD',
+                label: 'Microsoft',
                 data: [1796, 1908, 1936, 1895, 1836, 1807, 1765, 1710, 1660, 1632, 1768, 1822, 1928, 1881],
                 borderColor: 'green',
                 borderWidth: 2
             },
             {
-                label: 'ETH',
+                label: 'Apple',
                 data: [2688, 2922, 3282, 2728, 1940, 1071, 1679, 1554, 1328, 1572, 1294, 1194, 1585, 1677],
                 borderColor: 'blue',
                 borderWidth: 2
